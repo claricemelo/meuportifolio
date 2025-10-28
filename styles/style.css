@@ -3,8 +3,8 @@
 :root {
     --cor-primaria: #000000;
     --cor-secundaria: #F6F6F6;
-    /* --cor-terciaria: #22D4FD; */
-    --cor-terciaria: #fd2231;
+    --cor-terciaria: #22D4FD; 
+     /*--cor-terciaria: #fd2231;*/
     --cor-hover: #272727;
 
     --fonte-primaria: 'Krona One', sans-serif;
